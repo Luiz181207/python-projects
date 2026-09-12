@@ -10,9 +10,6 @@ These projects were created to apply programming concepts in practical scenarios
 
 A text-based adventure game where the player's choices affect the outcome.
 
-### Banking System
-
-A simple banking system that simulates basic account operations.
 
 ### Timer App
 
